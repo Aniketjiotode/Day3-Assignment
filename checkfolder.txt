@@ -1,0 +1,5 @@
+Que) check if a folder exist or not. If it is not present, creat it
+
+     $ mkdir data
+     $ cd data/
+     
